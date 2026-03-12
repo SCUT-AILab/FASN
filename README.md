@@ -1,6 +1,6 @@
 # Face Anti-spoofing in Near-Infrared Dataset
 
-*Introduction*
+## Introduction
 We collect image data using three different Near-Infrared (NIR) cameras, with their detailed parameters listed below:
 
 1. 850 nm Near-Infrared USB camera, with a resolution of 640×480;
@@ -15,22 +15,9 @@ The dataset includes 4 types of photos that may pose threats to face recognition
 
 
 
-*Download Link*
+## Download Link
 
 The dataset is still being organized and will be published on ModelScope soon: wnwn22222/FASN
-
-*Citation*
-If the dataset is useful for your research, please cite the following article:
-
-@article{li2024face,
-  title={Face anti-spoofing with cross-stage relation enhancement and spoof material perception},
-  author={Li, Daiyuan and Chen, Guo and Wu, Xixian and Yu, Zitong and Tan, Mingkui},
-  journal={Neural Networks},
-  volume={175},
-  pages={106275},
-  year={2024},
-  publisher={Elsevier}
-}
 
 
 ![1713022354406](images/README/1713022354406.png)
@@ -39,6 +26,7 @@ If the dataset is useful for your research, please cite the following article:
 
 Will in Publish in ModelScope:wnwn22222/FASN
 
+If the dataset is useful for your research, please cite：
 ## Citation
 @article{li2024face,
   title={Face anti-spoofing with cross-stage relation enhancement and spoof material perception},
@@ -49,5 +37,3 @@ Will in Publish in ModelScope:wnwn22222/FASN
   year={2024},
   publisher={Elsevier}
 }
-
-If the dataset is useful for your research, please cite：
