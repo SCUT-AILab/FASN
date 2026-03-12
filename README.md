@@ -17,7 +17,7 @@ The dataset includes 4 types of photos that may pose threats to face recognition
 
 ## Download Link
 
-The dataset is still being organized and will be published on ModelScope soon: wnwn22222/FASN
+The dataset is still being organized and will be published on ModelScope soon: [wnwn22222/FASN](https://www.modelscope.cn/datasets/wnwn22222/FASN) 
 
 
 ![1713022354406](images/README/1713022354406.png)
